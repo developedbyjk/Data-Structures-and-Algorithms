@@ -5,7 +5,6 @@
 
 **Introduction to Data Structures and Algorithm Analysis:  ✨**
 
-️
 - Algorithm Analysis
 - Data Structure Definition and Classification
 - Storage Representation of Strings
