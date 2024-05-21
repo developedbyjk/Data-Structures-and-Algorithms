@@ -5,8 +5,9 @@
 
 **Introduction to Data Structures and Algorithm Analysis:  ✨**
 
-️- Data Structure Definition and Classification
+️
 - Algorithm Analysis
+- Data Structure Definition and Classification
 - Storage Representation of Strings
 - Text Handling and KWIC (Keyword In Context)
 - Indexing
