@@ -12,6 +12,19 @@
 - Indexing
 
 
+**df**
+
+- Linear Data Structures
+    - Arrays
+    - Storage Structure for Arrays
+ 
+-Stack
+  - List Implementation
+  - Applications of Stacks
+    - Function Call
+    - Recursion
+    - Balancing Symbols
+
 
 
 
